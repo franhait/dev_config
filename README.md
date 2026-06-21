@@ -13,3 +13,6 @@ This is Oscar's development configuration.
 - .zshrc
 - .bashrc
 - .config (kernel config, should I do it?)
+- List Installed Packages
+  -- Creat a script
+  
